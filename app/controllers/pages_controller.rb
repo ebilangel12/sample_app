@@ -8,4 +8,8 @@ def about
 end
 
 
+def help
+	@title="Help"
+end
+
 end
